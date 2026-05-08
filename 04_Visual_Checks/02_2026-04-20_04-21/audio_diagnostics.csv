@@ -1,0 +1,151 @@
+track_id,emotion_category,ib_norm,mert_norm,duration_s,source_sr
+track_001,"Sadness, Loss & Lament",16.715086,3.4805753,30.0,44100
+track_002,"Sadness, Loss & Lament",18.869087,3.285599,30.0,44100
+track_003,Vital & Joyful,18.103529,3.0043786,30.0,44100
+track_004,Vital & Joyful,19.026718,2.9944992,30.0,44100
+track_005,Vital & Joyful,17.397924,3.0848978,30.0,44100
+track_006,"Tension, Threat & Aggression",17.329998,3.0520666,30.0,44100
+track_007,"Dreaminess, Curiosity & Ambiguity",17.673956,3.2141445,30.0,44100
+track_008,"Awe, Beauty & Transcendence",16.504354,3.1706238,30.0,44100
+track_009,"Tension, Threat & Aggression",15.302478,3.031949,30.0,44100
+track_010,"Dreaminess, Curiosity & Ambiguity",16.518938,3.4594016,30.0,44100
+track_011,"Sadness, Loss & Lament",16.94128,2.992833,30.0,44100
+track_012,"Awe, Beauty & Transcendence",19.57421,3.3660166,30.0,44100
+track_013,"Dreaminess, Curiosity & Ambiguity",18.47028,3.3159382,30.0,44100
+track_014,"Tension, Threat & Aggression",18.999048,3.2590842,30.0,44100
+track_015,"Tension, Threat & Aggression",17.752047,3.1175535,30.0,44100
+track_016,Vital & Joyful,16.4668,3.0144155,30.0,44100
+track_017,Tender & Intimacy,19.010063,3.057396,30.0,44100
+track_018,"Sadness, Loss & Lament",16.723047,3.3556993,30.0,44100
+track_019,"Tension, Threat & Aggression",18.895657,3.0678756,30.0,44100
+track_020,Tender & Intimacy,18.713367,3.023288,30.0,44100
+track_021,"Tension, Threat & Aggression",17.329174,3.4813817,30.0,44100
+track_022,"Tension, Threat & Aggression",17.729145,3.0604846,30.0,44100
+track_023,Tender & Intimacy,18.430672,3.2274117,30.0,44100
+track_024,Vital & Joyful,17.904255,3.007337,30.0,44100
+track_025,"Sadness, Loss & Lament",18.95405,3.1953719,30.0,44100
+track_026,Vital & Joyful,18.914267,3.0864031,30.0,44100
+track_027,"Dreaminess, Curiosity & Ambiguity",18.218706,3.3638577,30.0,44100
+track_028,"Awe, Beauty & Transcendence",14.929917,3.124517,30.0,44100
+track_029,"Awe, Beauty & Transcendence",17.664345,3.331502,30.0,44100
+track_030,Tender & Intimacy,18.726753,3.3425896,30.0,44100
+track_031,Vital & Joyful,18.324419,2.9468656,30.0,44100
+track_032,"Awe, Beauty & Transcendence",17.325193,3.173417,30.0,44100
+track_033,"Dreaminess, Curiosity & Ambiguity",18.073286,3.1036782,30.0,44100
+track_034,"Tension, Threat & Aggression",17.802496,3.161459,30.0,44100
+track_035,Tender & Intimacy,17.71116,3.3227239,30.0,44100
+track_036,"Awe, Beauty & Transcendence",19.047817,3.1068544,30.0,44100
+track_037,Tender & Intimacy,17.311026,3.0961983,30.0,44100
+track_038,Tender & Intimacy,17.110931,3.1382334,30.0,44100
+track_039,Vital & Joyful,17.489658,3.1213226,30.0,44100
+track_040,Vital & Joyful,15.789165,3.0226057,30.0,44100
+track_041,"Sadness, Loss & Lament",17.581234,3.3127284,30.0,44100
+track_042,Vital & Joyful,17.977352,3.1748405,30.0,44100
+track_043,"Awe, Beauty & Transcendence",17.192862,3.1435921,30.0,44100
+track_044,"Sadness, Loss & Lament",16.621067,2.9813843,30.0,44100
+track_045,"Sadness, Loss & Lament",18.670238,3.1910203,30.0,44100
+track_046,"Tension, Threat & Aggression",18.674215,3.1379652,30.0,44100
+track_047,"Sadness, Loss & Lament",19.088726,3.1387308,30.0,44100
+track_048,Vital & Joyful,17.77921,3.0909317,30.0,44100
+track_049,Tender & Intimacy,18.57914,3.2383854,30.0,44100
+track_050,"Awe, Beauty & Transcendence",18.076876,3.2881644,30.0,44100
+track_051,"Awe, Beauty & Transcendence",17.97211,3.3000708,30.0,44100
+track_052,"Sadness, Loss & Lament",17.99245,3.2807539,30.0,44100
+track_053,"Awe, Beauty & Transcendence",17.235136,3.255096,30.0,44100
+track_054,Vital & Joyful,15.506034,3.0571675,30.0,44100
+track_055,Vital & Joyful,18.899622,3.2134945,30.0,44100
+track_056,Tender & Intimacy,16.939135,3.1247866,30.0,44100
+track_057,"Dreaminess, Curiosity & Ambiguity",16.49881,2.9990978,30.0,44100
+track_058,"Sadness, Loss & Lament",17.261183,3.3230221,30.0,44100
+track_059,"Dreaminess, Curiosity & Ambiguity",16.868996,3.4258254,30.0,44100
+track_060,Tender & Intimacy,16.485239,3.1174855,30.0,44100
+track_061,Tender & Intimacy,18.205832,2.9758437,30.0,44100
+track_062,"Sadness, Loss & Lament",16.689081,3.0879805,30.0,44100
+track_063,"Sadness, Loss & Lament",17.692696,3.5580592,30.0,44100
+track_064,"Tension, Threat & Aggression",18.015362,3.276237,30.0,44100
+track_065,"Tension, Threat & Aggression",17.7482,3.196572,30.0,44100
+track_066,Tender & Intimacy,17.286247,2.9662662,30.0,44100
+track_067,"Tension, Threat & Aggression",19.194887,2.9469523,30.0,44100
+track_068,"Awe, Beauty & Transcendence",18.83014,3.1609812,30.0,44100
+track_069,Tender & Intimacy,16.462313,2.9034407,30.0,44100
+track_070,"Sadness, Loss & Lament",17.593245,3.2554018,30.0,44100
+track_071,Tender & Intimacy,18.936024,3.2406728,30.0,44100
+track_072,"Dreaminess, Curiosity & Ambiguity",17.696543,3.0091925,30.0,44100
+track_073,Tender & Intimacy,18.385128,3.379265,30.0,44100
+track_074,"Dreaminess, Curiosity & Ambiguity",17.928944,2.956768,30.0,44100
+track_075,Vital & Joyful,18.193846,3.1288228,30.0,44100
+track_076,"Tension, Threat & Aggression",16.294514,3.0633845,30.0,44100
+track_077,Vital & Joyful,19.419355,3.1494563,30.0,44100
+track_078,Tender & Intimacy,16.822313,3.152195,30.0,44100
+track_079,"Awe, Beauty & Transcendence",18.225248,3.235421,30.0,44100
+track_080,"Awe, Beauty & Transcendence",17.262466,3.0380943,30.0,44100
+track_081,"Tension, Threat & Aggression",18.66011,3.030684,30.0,44100
+track_082,"Awe, Beauty & Transcendence",18.084234,2.93357,30.0,44100
+track_083,"Awe, Beauty & Transcendence",17.15344,3.1302118,30.0,44100
+track_084,"Tension, Threat & Aggression",18.31664,3.2151525,30.0,44100
+track_085,"Dreaminess, Curiosity & Ambiguity",18.176125,3.218423,30.0,44100
+track_086,"Awe, Beauty & Transcendence",16.140726,3.1807926,30.0,44100
+track_087,Tender & Intimacy,16.940563,2.8638322,30.0,44100
+track_088,"Tension, Threat & Aggression",19.107464,3.0391169,30.0,44100
+track_089,"Sadness, Loss & Lament",17.58548,3.1746304,30.0,44100
+track_090,"Dreaminess, Curiosity & Ambiguity",16.835478,3.0826445,30.0,44100
+track_091,"Awe, Beauty & Transcendence",17.26363,3.170229,30.0,44100
+track_092,"Tension, Threat & Aggression",19.037716,3.2205663,30.0,44100
+track_093,"Dreaminess, Curiosity & Ambiguity",17.47569,3.2627351,30.0,44100
+track_094,"Tension, Threat & Aggression",15.989987,2.9727674,30.0,44100
+track_095,"Sadness, Loss & Lament",18.52518,3.1161878,30.0,44100
+track_096,Tender & Intimacy,17.967964,3.2016146,30.0,44100
+track_097,"Tension, Threat & Aggression",15.836998,3.007558,30.0,44100
+track_098,"Dreaminess, Curiosity & Ambiguity",15.068274,3.141704,30.0,44100
+track_099,Vital & Joyful,15.868089,2.9956846,30.0,44100
+track_100,"Tension, Threat & Aggression",17.162825,3.1019733,30.0,44100
+track_101,"Awe, Beauty & Transcendence",16.488203,3.0266433,30.0,44100
+track_102,Tender & Intimacy,18.989391,3.3542428,30.0,44100
+track_103,Vital & Joyful,18.000546,3.047969,30.0,44100
+track_104,"Tension, Threat & Aggression",16.184553,2.9168346,30.0,44100
+track_105,"Tension, Threat & Aggression",19.242445,3.0941696,30.0,44100
+track_106,Tender & Intimacy,18.134596,3.153168,30.0,44100
+track_107,"Sadness, Loss & Lament",18.078552,3.1030128,30.0,44100
+track_108,"Dreaminess, Curiosity & Ambiguity",16.03196,2.9723556,30.0,44100
+track_109,"Awe, Beauty & Transcendence",16.13852,3.1413808,30.0,44100
+track_110,"Dreaminess, Curiosity & Ambiguity",15.756362,3.0785866,30.0,44100
+track_111,Tender & Intimacy,14.316612,3.1244643,30.0,44100
+track_112,"Awe, Beauty & Transcendence",16.97273,3.1931539,30.0,48000
+track_113,"Sadness, Loss & Lament",17.015642,3.6113665,30.0,44100
+track_114,"Dreaminess, Curiosity & Ambiguity",17.112343,3.2135541,30.0,44100
+track_115,Vital & Joyful,17.485607,3.1538627,30.0,44100
+track_116,Vital & Joyful,17.617407,3.1840684,30.0,44100
+track_117,"Dreaminess, Curiosity & Ambiguity",18.858356,3.025178,30.0,44100
+track_118,"Sadness, Loss & Lament",18.360352,3.0364623,30.0,44100
+track_119,"Dreaminess, Curiosity & Ambiguity",17.596233,3.1665921,30.0,44100
+track_120,"Dreaminess, Curiosity & Ambiguity",15.786473,2.9450243,30.0,44100
+track_121,"Awe, Beauty & Transcendence",18.760218,3.4208088,30.0,44100
+track_122,"Dreaminess, Curiosity & Ambiguity",18.264544,3.4404008,30.0,44100
+track_123,"Dreaminess, Curiosity & Ambiguity",15.831045,3.215005,30.0,44100
+track_124,"Sadness, Loss & Lament",16.661188,3.2340596,30.0,44100
+track_125,"Awe, Beauty & Transcendence",17.094667,3.4616995,30.0,44100
+track_126,Vital & Joyful,18.991411,3.103109,30.0,44100
+track_127,Tender & Intimacy,17.323366,3.2190135,30.0,44100
+track_128,"Sadness, Loss & Lament",17.35204,3.1918476,30.0,44100
+track_129,Vital & Joyful,16.51165,3.1391869,30.0,44100
+track_130,"Dreaminess, Curiosity & Ambiguity",15.5607,3.352961,30.0,44100
+track_131,"Sadness, Loss & Lament",17.548027,3.159363,30.0,44100
+track_132,"Dreaminess, Curiosity & Ambiguity",17.046335,3.0963023,30.0,44100
+track_133,Tender & Intimacy,16.555521,3.1756916,30.0,44100
+track_134,"Tension, Threat & Aggression",18.629025,3.0985007,30.0,44100
+track_135,"Sadness, Loss & Lament",18.666332,3.2218976,30.0,44100
+track_136,Vital & Joyful,17.142519,3.1944575,30.0,44100
+track_137,Vital & Joyful,17.254604,2.9404624,30.0,44100
+track_138,"Awe, Beauty & Transcendence",17.031986,3.464859,30.0,44100
+track_139,Vital & Joyful,15.202901,3.2429929,30.0,44100
+track_140,Vital & Joyful,17.941586,3.0605905,30.0,44100
+track_141,"Dreaminess, Curiosity & Ambiguity",15.687449,3.4231677,30.0,44100
+track_142,"Sadness, Loss & Lament",18.79031,3.2800374,30.0,44100
+track_143,Tender & Intimacy,17.75694,3.025958,30.0,44100
+track_144,"Tension, Threat & Aggression",16.492552,3.018392,30.0,44100
+track_145,"Tension, Threat & Aggression",15.439455,3.1659238,30.0,44100
+track_146,"Sadness, Loss & Lament",18.321466,3.0917625,30.0,44100
+track_147,"Dreaminess, Curiosity & Ambiguity",17.36285,3.119508,30.0,44100
+track_148,Tender & Intimacy,17.042067,3.0833275,30.0,44100
+track_149,"Awe, Beauty & Transcendence",18.919323,3.1511192,30.0,44100
+track_150,"Awe, Beauty & Transcendence",19.032024,2.816163,30.0,44100

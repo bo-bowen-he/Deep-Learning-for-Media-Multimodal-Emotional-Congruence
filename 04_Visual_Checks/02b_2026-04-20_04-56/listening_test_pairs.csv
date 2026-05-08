@@ -1,0 +1,11 @@
+query_id,query_cat,ib_nn_id,ib_nn_cat,ib_sim,mert_nn_id,mert_nn_cat,mert_sim,confidence_sum,which_is_better,notes
+track_067,"Tension, Threat & Aggression",track_075,Vital & Joyful,0.9119558334350586,track_031,Vital & Joyful,0.9417861700057983,1.853742003440857,,
+track_075,Vital & Joyful,track_067,"Tension, Threat & Aggression",0.9119558334350586,track_047,"Sadness, Loss & Lament",0.9311555027961731,1.843111276626587,,
+track_088,"Tension, Threat & Aggression",track_075,Vital & Joyful,0.9035811424255371,track_108,"Dreaminess, Curiosity & Ambiguity",0.9354407787322998,1.839021921157837,,
+track_071,Tender & Intimacy,track_070,"Sadness, Loss & Lament",0.8811487555503845,track_073,Tender & Intimacy,0.9540676474571228,1.8352164030075073,,
+track_002,"Sadness, Loss & Lament",track_035,Tender & Intimacy,0.8742602467536926,track_135,"Sadness, Loss & Lament",0.9581584930419922,1.83241868019104,,
+track_091,"Awe, Beauty & Transcendence",track_133,Tender & Intimacy,0.8786244988441467,track_097,"Tension, Threat & Aggression",0.9510230422019958,1.8296475410461426,,
+track_126,Vital & Joyful,track_107,"Sadness, Loss & Lament",0.8837509155273438,track_109,"Awe, Beauty & Transcendence",0.94083571434021,1.8245866298675537,,
+track_031,Vital & Joyful,track_075,Vital & Joyful,0.8819457292556763,track_072,"Dreaminess, Curiosity & Ambiguity",0.9422518610954285,1.82419753074646,,
+track_133,Tender & Intimacy,track_091,"Awe, Beauty & Transcendence",0.8786244988441467,track_007,"Dreaminess, Curiosity & Ambiguity",0.9452497363090515,1.8238742351531982,,
+track_017,Tender & Intimacy,track_107,"Sadness, Loss & Lament",0.8874207139015198,track_047,"Sadness, Loss & Lament",0.9363827705383301,1.823803424835205,,

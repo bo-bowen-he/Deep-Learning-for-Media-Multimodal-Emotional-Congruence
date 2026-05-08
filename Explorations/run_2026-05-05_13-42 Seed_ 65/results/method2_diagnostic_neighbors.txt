@@ -1,0 +1,68 @@
+==============================================================================
+DIAGNOSTIC TRACKS — top-5 nearest neighbors per encoder
+==============================================================================
+
+▶ track_088  'm.A.A.d city' by Kendrick Lamar, MC Eiht
+   true emotion = Tension, Threat & Aggression    genre = Hip-Hop
+   audio_ib_orig          → Industry Baby (Vital & /Hip-Hop) | I Don't Fuck With Yo (Tension,/Hip-Hop) | In My Room (Dreamine/R&B) | Champion (Vital & /Hip-Hop) | I THINK (Tender &/R&B)
+   audio_ib_random        → Industry Baby (Vital & /Hip-Hop) | I Don't Fuck With Yo (Tension,/Hip-Hop) | In My Room (Dreamine/R&B) | Champion (Vital & /Hip-Hop) | I THINK (Tender &/R&B)
+   audio_ib_energy        → I Don't Fuck With Yo (Tension,/Hip-Hop) | Industry Baby (Vital & /Hip-Hop) | Champion (Vital & /Hip-Hop) | In My Room (Dreamine/R&B) | I THINK (Tender &/R&B)
+   audio_mert_orig        → Red Eye (Dreamine/Electron) | Believer (Tension,/Rock) | Are You Bored Yet (f (Tender &/Rock) | Industry Baby (Vital & /Hip-Hop) | Oscar Winning Tears (Awe, Bea/Jazz)
+   audio_mert_random      → Red Eye (Dreamine/Electron) | Industry Baby (Vital & /Hip-Hop) | Believer (Tension,/Rock) | Champion (Vital & /Hip-Hop) | Oscar Winning Tears (Awe, Bea/Jazz)
+   audio_mert_energy      → Champion (Vital & /Hip-Hop) | Believer (Tension,/Rock) | Are You Bored Yet (f (Tender &/Rock) | I Don't Fuck With Yo (Tension,/Hip-Hop) | Industry Baby (Vital & /Hip-Hop)
+   image_ib               → Best Part (Tender &/R&B) | In My Room (Dreamine/R&B) | I THINK (Tender &/R&B) | Stay (Awe, Bea/Pop) | Juna (Tender &/Pop)
+   image_clip             → Best Part (Tender &/R&B) | Champion (Vital & /Hip-Hop) | Fix You (Awe, Bea/Rock) | I THINK (Tender &/R&B) | Hot Body (Tender &/Pop)
+   text_ib                → My Generation (Tension,/Rock) | Lovers Rock (Tender &/Rock) | 1999 (Vital & /Pop) | Industry Baby (Vital & /Hip-Hop) | Hard Times (Vital & /Pop)
+   text_clap              → My Generation (Tension,/Rock) | Industry Baby (Vital & /Hip-Hop) | Holocene (Dreamine/Folk) | Happy (Vital & /Pop) | Bad Guy (Tension,/Pop)
+
+▶ track_027  'Bloom' by The Paper Kites
+   true emotion = Dreaminess, Curiosity & Ambiguity    genre = Rock
+   audio_ib_orig          → If I Go, I’m Goin (Sadness,/Folk) | I See Fire (Awe, Bea/Folk) | If (Tender &/Pop) | Paper Hearts (Tender &/Pop) | Death with Dignity (Sadness,/Folk)
+   audio_ib_random        → I See Fire (Awe, Bea/Folk) | If I Go, I’m Goin (Sadness,/Folk) | Death with Dignity (Sadness,/Folk) | If (Tender &/Pop) | Valder Fields (Awe, Bea/Folk)
+   audio_ib_energy        → Death with Dignity (Sadness,/Folk) | If I Go, I’m Goin (Sadness,/Folk) | Before I Sleep (Tension,/Folk) | The Way Things Go (Sadness,/Rock) | I See Fire (Awe, Bea/Folk)
+   audio_mert_orig        → The Way Things Go (Sadness,/Rock) | Christmas List (Tender &/Pop) | Best Part (Tender &/R&B) | This Time (Tender &/R&B) | 12:45 - Stripped (Sadness,/Pop)
+   audio_mert_random      → Tears and Rain (Sadness,/Folk) | This Time (Tender &/R&B) | Christmas List (Tender &/Pop) | In Case You Don't Li (Tender &/Folk) | If (Tender &/Pop)
+   audio_mert_energy      → Christmas List (Tender &/Pop) | This Time (Tender &/R&B) | The Way Things Go (Sadness,/Rock) | In Case You Don't Li (Tender &/Folk) | Tears and Rain (Sadness,/Folk)
+   image_ib               → How to Disappear Com (Sadness,/Rock) | Sparks (Sadness,/Rock) | Hard Times (Vital & /Pop) | Head Like a Haunted  (Dreamine/Rock) | Animals (Tension,/Rock)
+   image_clip             → How to Disappear Com (Sadness,/Rock) | Holocene (Dreamine/Folk) | How Do I Say Goodbye (Sadness,/Folk) | Watching Him Fade Aw (Sadness,/Rock) | If I Go, I’m Goin (Sadness,/Folk)
+   text_ib                → Best Part (Tender &/R&B) | Juna (Tender &/Pop) | In Case You Don't Li (Tender &/Folk) | Before I Sleep (Tension,/Folk) | Come Away With Me (Awe, Bea/Jazz)
+   text_clap              → NYMPHOLOGY (Tension,/Rock) | Song to the Siren (Dreamine/Pop) | Paper Hearts (Tender &/Pop) | Breathe (Awe, Bea/Electron) | Juna (Tender &/Pop)
+
+▶ track_143  'Water' by Tyla
+   true emotion = Tender & Intimacy    genre = R&B
+   audio_ib_orig          → Juna (Tender &/Pop) | Better Things (Vital & /Pop) | bittersweet (Sadness,/Pop) | CHIHIRO (Dreamine/Pop) | 1999 (Vital & /Pop)
+   audio_ib_random        → Better Things (Vital & /Pop) | 1999 (Vital & /Pop) | Raindance (Tender &/Hip-Hop) | Disappear (Sadness,/Pop) | Bloody Samaritan (Re (Vital & /Pop)
+   audio_ib_energy        → 1999 (Vital & /Pop) | bittersweet (Sadness,/Pop) | 360 (Vital & /Pop) | Bloody Samaritan (Re (Vital & /Pop) | Raindance (Tender &/Hip-Hop)
+   audio_mert_orig        → Sugar (Vital & /Pop) | :)  (Vital & /Pop) | NYMPHOLOGY (Tension,/Rock) | 1999 (Vital & /Pop) | Let It Happen (Awe, Bea/Pop)
+   audio_mert_random      → Sugar (Vital & /Pop) | :)  (Vital & /Pop) | Piece Of You (Tension,/Pop) | Raindance (Tender &/Hip-Hop) | 1999 (Vital & /Pop)
+   audio_mert_energy      → Sugar (Vital & /Pop) | :)  (Vital & /Pop) | 1999 (Vital & /Pop) | Raindance (Tender &/Hip-Hop) | Revolve (Awe, Bea/Pop)
+   image_ib               → Disappear (Sadness,/Pop) | Unstoppable (Vital & /Pop) | Stay (Awe, Bea/Pop) | Paper Hearts (Tender &/Pop) | Happy (Vital & /Pop)
+   image_clip             → Disappear (Sadness,/Pop) | Hot Body (Tender &/Pop) | Stay (Awe, Bea/Pop) | Money Diamonds Roses (Dreamine/R&B) | Bloody Samaritan (Re (Vital & /Pop)
+   text_ib                → Air Supply (Dreamine/Rock) | Lovers Rock (Tender &/Rock) | Little Trouble Girl (Tension,/Rock) | Risky (Dreamine/Rock) | Au Pays du Cocaine (Sadness,/Folk)
+   text_clap              → How Villains Are Mad (Tension,/Ambient) | Air Supply (Dreamine/Rock) | Myth (Dreamine/Pop) | Watching Him Fade Aw (Sadness,/Rock) | Before I Sleep (Tension,/Folk)
+
+▶ track_055  'Hard Times' by Paramore
+   true emotion = Vital & Joyful    genre = Pop
+   audio_ib_orig          → Happy (Vital & /Pop) | Warm Sound (Dreamine/Electron) | :)  (Vital & /Pop) | Air Supply (Dreamine/Rock) | Nothing (Tender &/Folk)
+   audio_ib_random        → Air Supply (Dreamine/Rock) | :)  (Vital & /Pop) | 1999 (Vital & /Pop) | Warm Sound (Dreamine/Electron) | Breathe (Awe, Bea/Electron)
+   audio_ib_energy        → :)  (Vital & /Pop) | Air Supply (Dreamine/Rock) | Breathe (Awe, Bea/Electron) | Warm Sound (Dreamine/Electron) | 1999 (Vital & /Pop)
+   audio_mert_orig        → How Do I Say Goodbye (Sadness,/Folk) | Run to me (Tender &/Pop) | Space Song (Dreamine/Pop) | Revolve (Awe, Bea/Pop) | The Seal Lullaby (Dreamine/Classica)
+   audio_mert_random      → Run to me (Tender &/Pop) | Revolve (Awe, Bea/Pop) | Die With A Smile (Awe, Bea/Pop) | How Do I Say Goodbye (Sadness,/Folk) | Not a Catastrophe (Sadness,/Folk)
+   audio_mert_energy      → Space Song (Dreamine/Pop) | Revolve (Awe, Bea/Pop) | Run to me (Tender &/Pop) | How Do I Say Goodbye (Sadness,/Folk) | Not a Catastrophe (Sadness,/Folk)
+   image_ib               → On Top Of The World (Vital & /Pop) | Believer (Tension,/Rock) | Welcome to My Nightm (Tension,/Rock) | Sparks (Sadness,/Rock) | Sugar (Vital & /Pop)
+   image_clip             → On Top Of The World (Vital & /Pop) | Cruel Summer (Vital & /Pop) | Lost Stars (Dreamine/Rock) | Sugar (Vital & /Pop) | Fix You (Awe, Bea/Rock)
+   text_ib                → Because You Loved Me (Tender &/Pop) | bittersweet (Sadness,/Pop) | In Case You Don't Li (Tender &/Folk) | All By Myself (Sadness,/Pop) | Piece Of You (Tension,/Pop)
+   text_clap              → Old Friend (Dreamine/Rock) | Unstoppable (Vital & /Pop) | We Don't Count (Tension,/R&B) | 12:45 - Stripped (Sadness,/Pop) | Lost Stars (Dreamine/Rock)
+
+▶ track_148  'Wicked Game' by Chris Isaak
+   true emotion = Tender & Intimacy    genre = Rock
+   audio_ib_orig          → Sparks (Sadness,/Rock) | Sweet Baby James (Tender &/Folk) | Harvest Moon (Tender &/Folk) | All By Myself (Sadness,/Pop) | Glimpse of Us (Sadness,/Pop)
+   audio_ib_random        → Home (Tender &/Pop) | Sparks (Sadness,/Rock) | Harvest Moon (Tender &/Folk) | Holocene (Dreamine/Folk) | Somewhere Over the R (Awe, Bea/Folk)
+   audio_ib_energy        → Harvest Moon (Tender &/Folk) | Sparks (Sadness,/Rock) | Home (Tender &/Pop) | All By Myself (Sadness,/Pop) | Glimpse of Us (Sadness,/Pop)
+   audio_mert_orig        → Harvest Moon (Tender &/Folk) | Slow Dancing in a Bu (Dreamine/Jazz) | This Time (Tender &/R&B) | Home (Tender &/Pop) | I See Fire (Awe, Bea/Folk)
+   audio_mert_random      → Harvest Moon (Tender &/Folk) | Home (Tender &/Pop) | This Time (Tender &/R&B) | Welcome to My Nightm (Tension,/Rock) | Sugar (Vital & /Pop)
+   audio_mert_energy      → Harvest Moon (Tender &/Folk) | Home (Tender &/Pop) | Slow Dancing in a Bu (Dreamine/Jazz) | Welcome to My Nightm (Tension,/Rock) | I See Fire (Awe, Bea/Folk)
+   image_ib               → One Step Closer (Tension,/Metal) | Unstoppable (Vital & /Pop) | Come Away With Me (Awe, Bea/Jazz) | My Generation (Tension,/Rock) | All By Myself (Sadness,/Pop)
+   image_clip             → Karma Police (Awe, Bea/Rock) | One Step Closer (Tension,/Metal) | Come Away With Me (Awe, Bea/Jazz) | Snow On The Beach (Dreamine/Pop) | Smells Like Teen Spi (Sadness,/Rock)
+   text_ib                → In Case You Don't Li (Tender &/Folk) | Run to me (Tender &/Pop) | Slow Dancing in a Bu (Dreamine/Jazz) | Before I Sleep (Tension,/Folk) | If (Tender &/Pop)
+   text_clap              → bittersweet (Sadness,/Pop) | Tears and Rain (Sadness,/Folk) | If (Tender &/Pop) | We Don't Count (Tension,/R&B) | Anchor (Dreamine/Folk)

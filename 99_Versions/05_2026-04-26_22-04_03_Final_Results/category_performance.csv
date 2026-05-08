@@ -1,0 +1,7 @@
+emotion_category,congruence_audio_visual_mean,congruence_audio_visual_std,congruence_audio_visual_count,congruence_audio_lyric_mean,congruence_audio_lyric_std,congruence_audio_lyric_count,master_congruence_mean,master_congruence_std,master_congruence_count
+"Awe, Beauty & Transcendence",0.16445617,0.058639552,25,0.14195743,0.062289774,25,0.1532068,0.046893444,25
+"Dreaminess, Curiosity & Ambiguity",0.1587334,0.06491875,25,0.115709215,0.06448804,25,0.1372213,0.05806168,25
+"Sadness, Loss & Lament",0.16440453,0.07012793,25,0.1440789,0.048755057,25,0.15424171,0.049205042,25
+Tender & Intimacy,0.1918028,0.08392729,25,0.16247568,0.051626157,25,0.17713924,0.047108095,25
+"Tension, Threat & Aggression",0.21217228,0.05600822,25,0.14515777,0.067918696,25,0.17866503,0.049170475,25
+Vital & Joyful,0.18628027,0.05230027,25,0.12011662,0.060304053,25,0.15319844,0.043720655,25

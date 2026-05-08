@@ -1,0 +1,25 @@
+emotion_category,emotion_subcategory,congruence_audio_visual_mean,congruence_audio_visual_std,congruence_audio_visual_count,congruence_audio_lyric_mean,congruence_audio_lyric_std,congruence_audio_lyric_count,master_congruence_mean,master_congruence_std,master_congruence_count
+"Awe, Beauty & Transcendence",Awe / Wonder,0.18739988,0.06199919,6,0.1794884,0.054323375,6,0.18344414,0.044724796,6
+"Awe, Beauty & Transcendence",Beautiful / Aesthetic Appreciation,0.13999678,0.06096436,7,0.13733087,0.06865584,7,0.13866383,0.03256505,7
+"Awe, Beauty & Transcendence",Peaceful / Relaxed,0.18187442,0.04996436,7,0.14692119,0.049283236,7,0.1643978,0.042950246,7
+"Awe, Beauty & Transcendence",Transcendent / Spiritual,0.14678133,0.061229486,5,0.09644815,0.063994616,5,0.12161474,0.055923786,5
+"Dreaminess, Curiosity & Ambiguity",Conflicted / Mixed,0.14927071,0.05648931,8,0.10943332,0.03722341,8,0.12935202,0.043167304,8
+"Dreaminess, Curiosity & Ambiguity",Curious / Intrigued,0.080360726,0.025604868,5,0.06851792,0.03142322,5,0.074439324,0.02678829,5
+"Dreaminess, Curiosity & Ambiguity",Dreamy / Floating,0.1982795,0.047183633,8,0.16328795,0.08377322,8,0.18078372,0.057306256,8
+"Dreaminess, Curiosity & Ambiguity",Mysterious / Enigmatic,0.19653244,0.060412217,4,0.09209268,0.041807182,4,0.14431256,0.046258308,4
+"Sadness, Loss & Lament",Bittersweet / Nostalgic,0.18344504,0.09021947,6,0.12721004,0.04311018,6,0.15532754,0.058459993,6
+"Sadness, Loss & Lament",Grief-stricken / Mourning,0.17525919,0.07330527,6,0.13457435,0.07304427,6,0.15491678,0.06568959,6
+"Sadness, Loss & Lament",Melancholic / Brooding,0.15624818,0.07986494,7,0.1500823,0.022105139,7,0.15316524,0.045586713,7
+"Sadness, Loss & Lament",Sad / Sorrowful,0.1440251,0.035647996,6,0.16344835,0.05175912,6,0.15373673,0.037297342,6
+Tender & Intimacy,Comforted / Safe,0.18911852,0.07183253,7,0.17989579,0.074835084,7,0.18450716,0.051954385,7
+Tender & Intimacy,Erotic / Sensual,0.17185418,0.14285879,6,0.13548827,0.05461109,6,0.15367122,0.07028248,6
+Tender & Intimacy,Romantic / Loving,0.19827417,0.061759207,7,0.16357769,0.02583754,7,0.18092594,0.025386864,7
+Tender & Intimacy,Tender / Warm,0.21043925,0.04662415,5,0.16892958,0.03441027,5,0.18968442,0.0313358,5
+"Tension, Threat & Aggression",Angry / Aggressive,0.24271217,0.047864046,7,0.15556991,0.07098149,7,0.19914104,0.03982366,7
+"Tension, Threat & Aggression",Anxious / Nervous,0.20791405,0.046381276,6,0.17484908,0.049719743,6,0.19138157,0.034290817,6
+"Tension, Threat & Aggression",Fearful / Scary,0.19371979,0.07055843,6,0.12305653,0.09367565,6,0.15838815,0.0763105,6
+"Tension, Threat & Aggression",Tense / Agitated,0.19925316,0.0569381,6,0.1254202,0.05084901,6,0.16233666,0.0332945,6
+Vital & Joyful,Amused / Playful,0.16211453,0.050552282,6,0.14176448,0.0652201,6,0.1519395,0.039350066,6
+Vital & Joyful,Joyful / Happy,0.21552886,0.047061246,6,0.10124171,0.04184391,6,0.15838529,0.0400527,6
+Vital & Joyful,Pumped Up / Energized,0.1811905,0.031234333,5,0.10745571,0.10543951,5,0.1443231,0.06564592,5
+Vital & Joyful,Triumphant / Victorious,0.18564922,0.064502865,8,0.12595002,0.031080524,8,0.15579961,0.041843593,8

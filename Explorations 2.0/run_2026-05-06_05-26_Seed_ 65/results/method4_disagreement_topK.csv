@@ -1,0 +1,51 @@
+pair,rank,jaccard,track_id,song,emotion,genre
+audio_ib_orig vs audio_mert_orig,1,0.0,track_001,$0,"Sadness, Loss & Lament",Folk
+audio_ib_orig vs audio_mert_orig,2,0.0,track_006,A Pearl,"Tension, Threat & Aggression",Rock
+audio_ib_orig vs audio_mert_orig,3,0.0,track_007,A Trick of the light,"Dreaminess, Curiosity & Ambiguity",Folk
+audio_ib_orig vs audio_mert_orig,4,0.0,track_008,A Whiter Shade of Pale,"Awe, Beauty & Transcendence",Rock
+audio_ib_orig vs audio_mert_orig,5,0.0,track_010,Air Supply,"Dreaminess, Curiosity & Ambiguity",Rock
+audio_ib_orig vs audio_mert_orig,6,0.0,track_011,All By Myself,"Sadness, Loss & Lament",Pop
+audio_ib_orig vs audio_mert_orig,7,0.0,track_012,Amazing Grace,"Awe, Beauty & Transcendence",Classical
+audio_ib_orig vs audio_mert_orig,8,0.0,track_016,Another Day of Sun,Vital & Joyful,Jazz
+audio_ib_orig vs audio_mert_orig,9,0.0,track_018,Au Pays du Cocaine,"Sadness, Loss & Lament",Folk
+audio_ib_orig vs audio_mert_orig,10,0.0,track_021,Before I Sleep,"Tension, Threat & Aggression",Folk
+audio_ib_orig vs audio_ib_random,1,0.0,track_005,:) ,Vital & Joyful,Pop
+audio_ib_orig vs audio_ib_random,2,0.0,track_039,Cruel Summer,Vital & Joyful,Pop
+audio_ib_orig vs audio_ib_random,3,0.0,track_053,Golden hour,"Awe, Beauty & Transcendence",Pop
+audio_ib_orig vs audio_ib_random,4,0.0,track_062,How Do I Say Goodbye,"Sadness, Loss & Lament",Folk
+audio_ib_orig vs audio_ib_random,5,0.0,track_091,moon and back,"Awe, Beauty & Transcendence",Pop
+audio_ib_orig vs audio_ib_random,6,0.0,track_115,Seasons of Love,Vital & Joyful,Pop
+audio_ib_orig vs audio_ib_random,7,0.0,track_130,The Seal Lullaby,"Dreaminess, Curiosity & Ambiguity",Classical
+audio_ib_orig vs audio_ib_random,8,0.0,track_132,Thinking Clean,"Dreaminess, Curiosity & Ambiguity",R&B
+audio_ib_orig vs audio_ib_random,9,0.0,track_147,Why I Love You,"Dreaminess, Curiosity & Ambiguity",Hip-Hop
+audio_ib_orig vs audio_ib_random,10,0.111,track_007,A Trick of the light,"Dreaminess, Curiosity & Ambiguity",Folk
+audio_ib_orig vs audio_ib_energy,1,0.0,track_005,:) ,Vital & Joyful,Pop
+audio_ib_orig vs audio_ib_energy,2,0.0,track_013,Anchor,"Dreaminess, Curiosity & Ambiguity",Folk
+audio_ib_orig vs audio_ib_energy,3,0.0,track_016,Another Day of Sun,Vital & Joyful,Jazz
+audio_ib_orig vs audio_ib_energy,4,0.0,track_093,Myth,"Dreaminess, Curiosity & Ambiguity",Pop
+audio_ib_orig vs audio_ib_energy,5,0.0,track_096,Nothing,Tender & Intimacy,Folk
+audio_ib_orig vs audio_ib_energy,6,0.0,track_111,Run to me,Tender & Intimacy,Pop
+audio_ib_orig vs audio_ib_energy,7,0.0,track_132,Thinking Clean,"Dreaminess, Curiosity & Ambiguity",R&B
+audio_ib_orig vs audio_ib_energy,8,0.111,track_019,Bad Guy,"Tension, Threat & Aggression",Pop
+audio_ib_orig vs audio_ib_energy,9,0.111,track_022,Believer,"Tension, Threat & Aggression",Rock
+audio_ib_orig vs audio_ib_energy,10,0.111,track_026,Bloody Samaritan (Remix),Vital & Joyful,Pop
+image_ib vs image_clip,1,0.0,track_002,12:45 - Stripped,"Sadness, Loss & Lament",Pop
+image_ib vs image_clip,2,0.0,track_004,360,Vital & Joyful,Pop
+image_ib vs image_clip,3,0.0,track_007,A Trick of the light,"Dreaminess, Curiosity & Ambiguity",Folk
+image_ib vs image_clip,4,0.0,track_009,Aint It Funny ,"Tension, Threat & Aggression",Metal
+image_ib vs image_clip,5,0.0,track_012,Amazing Grace,"Awe, Beauty & Transcendence",Classical
+image_ib vs image_clip,6,0.0,track_014,Anemone,"Tension, Threat & Aggression",Rock
+image_ib vs image_clip,7,0.0,track_017,Are You Bored Yet (feat. Clairo),Tender & Intimacy,Rock
+image_ib vs image_clip,8,0.0,track_019,Bad Guy,"Tension, Threat & Aggression",Pop
+image_ib vs image_clip,9,0.0,track_024,Better Things,Vital & Joyful,Pop
+image_ib vs image_clip,10,0.0,track_031,Champion,Vital & Joyful,Hip-Hop
+text_ib vs text_clap,1,0.0,track_001,$0,"Sadness, Loss & Lament",Folk
+text_ib vs text_clap,2,0.0,track_002,12:45 - Stripped,"Sadness, Loss & Lament",Pop
+text_ib vs text_clap,3,0.0,track_003,1999,Vital & Joyful,Pop
+text_ib vs text_clap,4,0.0,track_004,360,Vital & Joyful,Pop
+text_ib vs text_clap,5,0.0,track_005,:) ,Vital & Joyful,Pop
+text_ib vs text_clap,6,0.0,track_006,A Pearl,"Tension, Threat & Aggression",Rock
+text_ib vs text_clap,7,0.0,track_008,A Whiter Shade of Pale,"Awe, Beauty & Transcendence",Rock
+text_ib vs text_clap,8,0.0,track_009,Aint It Funny ,"Tension, Threat & Aggression",Metal
+text_ib vs text_clap,9,0.0,track_010,Air Supply,"Dreaminess, Curiosity & Ambiguity",Rock
+text_ib vs text_clap,10,0.0,track_011,All By Myself,"Sadness, Loss & Lament",Pop
