@@ -58,7 +58,7 @@ genre tags live in `raw_data_labels.xlsx` and `metadata.csv`.
 material and are NOT redistributed in this repo. The 150-track manifest with
 artists and titles is included; reproduce by sourcing the audio yourself,
 or contact the team for the private dataset link.
-For grading: the private Drive folder is at **[paste Drive link here]**.
+For grading: the private Drive folder is at **[Google Drive folder](https://drive.google.com/drive/folders/199oEoBVbyQmAN5BbO9c40N6wFQ9bbERe?usp=drive_link)**.
 
 ---
 
@@ -91,9 +91,7 @@ optional extensions.
 - `Explorations/` — 3 seed runs of `07_Exploration.ipynb` (audio resampling).
 - `Explorations 2.0/` — 3 seed runs of `07.5_Exploration_Text_and_Audio.ipynb`
   (audio + lyric resampling + V-A probe).
-- `Documents/` — preflight summary, per-notebook triage notes, changelog.
-- `DL_Project_2026_Presentation.pptx` — 18-slide deck for the team talk.
-- `DL_Project_2026_Speaker_Notes.docx` — companion verbatim script for each slide.
+- `Documents/` — Project planning, Data collection SOP, Presentations, and Hand off briefs.
 - `dl_project_2026_report.html` — self-contained HTML report with all figures
   embedded as base64. Best entry point for graders.
 
