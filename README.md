@@ -75,7 +75,7 @@ optional extensions.
 | `02b_Audio_Exploration.ipynb` | Inline audio diagnostics: waveforms, spectrograms, embedding norm distributions. | Jiexin |
 | `03_Visual_Feature_Extraction_ImageBind_CLIP.ipynb` | Extracts ImageBind image (1024-d) and CLIP ViT-B/32 (512-d) embeddings for all 150 covers. | Sabria |
 | `04_Text_Sentiment_and_Lyric_Embeddings_ImageBind_CLAP.ipynb` | RoBERTa GoEmotions sentiment + ImageBind text (1024-d) + CLAP HTSAT-tiny text (512-d) embeddings. | Olivia |
-| `05_Cross_Modal_Similarity_and_Retrieval.ipynb` | Per-track cosine congruence (A↔V, A↔L, master), CKA / RSA / Procrustes between encoders, Recall@K retrieval, 1-NN confusion matrix. | Jazlyn |
+| `05_Cross_Modal_Similarity_and_Retrieval.ipynb` | Computed per-track cosine congruence (A↔V, A↔L, and master), compared encoders using CKA, RSA, and Procrustes analysis, evaluated retrieval with Recall@K, and generated a 1-NN confusion matrix. | Jazlyn |
 | `06_UMAP_Visualizations_and_Final_Analysis.ipynb` | UMAP grids, V-A circumplex constellations, V-A regression probe, per-model silhouette + 1-NN purity. | Bowen |
 | `07_Exploration.ipynb` | Additive 5-method analysis with two new audio samplers (random K-mean + energy-peak) across 3 random seeds. | Bowen |
 | `07.5_Exploration_Text_and_Audio.ipynb` | Extends 07 with chorus + multi-segment lyric resampling and an anchor-based V-A regression probe across 14 encoder spaces × 3 seeds. | Bowen |
